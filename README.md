@@ -1,1 +1,18 @@
 # task-1
+This is a repository created for submitting my first Task.
+
+This one has two activities:
+
+Creating a blog about the difference between HTTP1.1 vs HTTP2
+
+Link for the Blog [CLICK HERE] (https://medium.com/@joemalar001/blog-on-difference-between-http1-1-vs-http2-32351d1cd74e)
+
+In the about blog we have disscussed about HTTP1.1 vs HTTP2
+
+Creating a blog about the about objects and its internal representation
+
+Link for the Blog [CLICK HERE] (https://medium.com/@joemalar001/about-objects-and-internal-representation-in-javascript-92ebf75b9399)
+
+Some think about the above blog
+
+Thanks for spending time on evaluating the task,awaiting for your valuable feedback. Once again thanks.
